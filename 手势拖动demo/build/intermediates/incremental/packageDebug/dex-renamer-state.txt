@@ -1,0 +1,4 @@
+#Thu Jan 17 14:49:39 CST 2019
+base.0=G\:\\Android Demo\\MyApplication12\\手势拖动demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=G\:\\Android Demo\\MyApplication12\\手势拖动demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
